@@ -78,6 +78,14 @@ img {
 	color: #fff;
 }
 
+.feature-alt {
+	background: #F0F0F0;
+}
+
+#feature-four .feature-content {
+	padding: 0;
+}
+
 /* Media Queries */
 
 @media screen and ( min-width: 991px ) {

@@ -86,6 +86,10 @@ img {
 	padding: 0;
 }
 
+#feature-five img {
+	margin-top: 2rem;
+}
+
 /* Media Queries */
 
 @media screen and ( min-width: 991px ) {
